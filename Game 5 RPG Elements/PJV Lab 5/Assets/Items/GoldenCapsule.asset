@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0771987a4b854043bd87590e7b422ea, type: 3}
+  m_Name: GoldenCapsule
+  m_EditorClassIdentifier: 
+  name: GoldenCapsule
+  icon: {fileID: 21300000, guid: c19cad3dc47dde64d8eeaaf8ab47642c, type: 3}
+  isDefautItem: 0
+  gamePrefab: {fileID: 4361392116231132349, guid: 9fa3b778c311bb1419191d14564725dc,
+    type: 3}

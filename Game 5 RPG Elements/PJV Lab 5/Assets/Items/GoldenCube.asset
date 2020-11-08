@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0771987a4b854043bd87590e7b422ea, type: 3}
+  m_Name: GoldenCube
+  m_EditorClassIdentifier: 
+  name: GoldenCube
+  icon: {fileID: 21300000, guid: 01b698329d6af7849a16c321d5fca96a, type: 3}
+  isDefautItem: 0
+  player: {fileID: 0}
+  gamePrefab: {fileID: 4588668126978445730, guid: 7c7eac960dc39514c92ec60d68a09870,
+    type: 3}

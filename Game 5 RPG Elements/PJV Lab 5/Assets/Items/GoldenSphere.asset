@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0771987a4b854043bd87590e7b422ea, type: 3}
+  m_Name: GoldenSphere
+  m_EditorClassIdentifier: 
+  name: GoldSphere
+  icon: {fileID: 3427858440720193113, guid: 6631bd161a9b30a44b2ab103d83eabc1, type: 3}
+  isDefautItem: 0
+  gamePrefab: {fileID: 8899924266074368805, guid: da250cf21b523c843ae1ebf54a756493,
+    type: 3}
